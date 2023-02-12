@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 
 notebooks/example-docs
+notebooks/audio-recordings
